@@ -28,5 +28,6 @@
 
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steve-B17&theme=dark&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Steve-B17&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Steve-B17&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steve-B17&theme=dark&hide_border=false&layout=compact)
+
